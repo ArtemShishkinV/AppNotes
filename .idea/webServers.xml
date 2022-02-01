@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="038893ed-18ae-469d-858d-8c0564ebbe56" name="notes" url="http://localhost">
+        <fileTransfer mountedRoot="C:\Users\Xomka2280\IdeaProjects\Notes943-master" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
